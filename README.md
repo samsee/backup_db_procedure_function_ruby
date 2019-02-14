@@ -1,4 +1,4 @@
-# Backup DB Procedures and Functions Ruby
+# Backup DB Procedures and Functions with Ruby
 
 Usually database's functions and procedures are not version controlled. This ruby scrips provides a simple way to backup them in text files.
 
